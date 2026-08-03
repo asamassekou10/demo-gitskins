@@ -1,10 +1,12 @@
 # GitSkins jet heatmap — camo render test
 
-## 1. Repo-hosted jet SVG (NOT camo-proxied — GitHub exempts its own domains)
+## Jet heatmap via GitHub Pages (third-party host — camo-proxied)
 
-![Jet heatmap](jet.svg)
+<p align="center">
+  <img src="https://asamassekou10.github.io/test-gitskins/jet.svg" alt="jet heatmap through camo" />
+</p>
 
-## 2. Production gitskins.com section (third-party host — IS camo-proxied)
+## Production gitskins.com heatmap (camo-proxied)
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=aurora" alt="camo-proxied GitSkins heatmap" />
