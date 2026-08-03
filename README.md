@@ -1,13 +1,11 @@
 # GitSkins jet heatmap — camo render test
 
-Verifying that GitHub's image proxy (camo) serves the animated SMIL SVG intact.
-
-## Relative path (repo-hosted)
+## 1. Repo-hosted jet SVG (NOT camo-proxied — GitHub exempts its own domains)
 
 ![Jet heatmap](jet.svg)
 
-## Absolute raw URL
+## 2. Production gitskins.com section (third-party host — IS camo-proxied)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/asamassekou10/test-gitskins/main/jet.svg" alt="Jet heatmap via raw URL" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=aurora" alt="camo-proxied GitSkins heatmap" />
 </p>
