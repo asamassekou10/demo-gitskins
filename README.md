@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=asamassekou10&theme=midnight&label=Alhassane" width="100%" alt="Alhassane Samassekou" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=asamassekou10&theme=aurora&label=Alhassane" width="100%" alt="Alhassane Samassekou" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=asamassekou10&theme=midnight&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=asamassekou10&theme=midnight&mode=dark" width="100%" alt="Alhassane Samassekou — Full-Stack AI Engineer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=asamassekou10&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=asamassekou10&theme=aurora&mode=dark" width="100%" alt="Alhassane Samassekou — Full-Stack AI Engineer" />
   </picture>
 </p>
 
@@ -20,7 +20,7 @@
 <br />
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=asamassekou10&theme=midnight&items=Security::CLI%20scanner%20for%20the%20agent%20era|Local-first::Open%20source%2C%20runs%20on%20your%20machine|Shipping::775%20stars%20and%20counting" width="100%" alt="Highlights" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=asamassekou10&theme=aurora&items=Security::CLI%20scanner%20for%20the%20agent%20era|Local-first::Open%20source%2C%20runs%20on%20your%20machine|Shipping::775%20stars%20and%20counting" width="100%" alt="Highlights" />
 </p>
 
 <br />
@@ -29,8 +29,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=midnight&style=jet&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=midnight&style=jet&mode=dark" width="100%" alt="2,219 contributions in the last year" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=aurora&style=jet&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=aurora&style=jet&mode=dark" width="100%" alt="2,219 contributions in the last year" />
   </picture>
 </p>
 
@@ -43,11 +43,11 @@
 ## Signal
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=asamassekou10&theme=midnight" width="100%" alt="785 stars across 51 repositories" />
+  <img src="https://www.gitskins.com/api/section/stats?username=asamassekou10&theme=aurora" width="100%" alt="785 stars across 51 repositories" />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=asamassekou10&theme=midnight" width="100%" alt="Language stack" />
+  <img src="https://www.gitskins.com/api/section/stack?username=asamassekou10&theme=aurora" width="100%" alt="Language stack" />
 </p>
 
 <br />
@@ -55,7 +55,7 @@
 ## Work
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=asamassekou10&theme=midnight" width="100%" alt="Pinned projects" />
+  <img src="https://www.gitskins.com/api/section/projects?username=asamassekou10&theme=aurora" width="100%" alt="Pinned projects" />
 </p>
 
 <br />
@@ -63,7 +63,7 @@
 ## Profile scan
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/system-scan?username=asamassekou10&theme=midnight" width="100%" alt="ASCII profile scan" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=asamassekou10&theme=aurora" width="100%" alt="ASCII profile scan" />
 </p>
 
 <br />
