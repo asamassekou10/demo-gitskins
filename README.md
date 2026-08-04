@@ -1,75 +1,80 @@
-<h1 align="center">Jet Heatmap</h1>
-
 <p align="center">
-  <b>Your GitHub contribution graph, with a fighter jet strafing your busiest days.</b>
+  <img src="https://www.gitskins.com/api/section/wordmark?username=asamassekou10&theme=midnight&label=Alhassane" width="100%" alt="Alhassane Samassekou" />
 </p>
-
-<p align="center">
-  <a href="https://www.gitskins.com">gitskins.com</a>
-  &nbsp;·&nbsp;
-  <a href="#add-it-to-your-readme">Add it to your README</a>
-</p>
-
-<br />
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=aurora&style=jet&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=aurora&style=jet&mode=dark" alt="Animated contribution heatmap with a jet firing at the busiest days" width="100%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=asamassekou10&theme=midnight&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=asamassekou10&theme=midnight&mode=dark" width="100%" alt="Alhassane Samassekou — Full-Stack AI Engineer" />
   </picture>
 </p>
 
-<br />
-
 <p align="center">
-  The jet flies the length of your year, fires as it passes under your heaviest<br />
-  contribution days, and turns around at the far edge to run them again.
+  <a href="https://github.com/asamassekou10/ship-safe"><b>ship-safe</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/asamassekou10?tab=repositories">All repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.gitskins.com">Made with GitSkins</a>
 </p>
 
 <br />
 
-## Any theme
-
-Same data, same jet, whatever palette you want. The jet, its tracers, and the shockwaves all take their color from the theme — no stray GitHub green.
-
-<table>
-  <tr><td align="center"><b>satan</b></td></tr>
-  <tr><td><img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=satan&style=jet" alt="Jet heatmap in the satan theme" width="100%" /></td></tr>
-  <tr><td align="center"><b>matrix</b></td></tr>
-  <tr><td><img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=matrix&style=jet" alt="Jet heatmap in the matrix theme" width="100%" /></td></tr>
-  <tr><td align="center"><b>dracula</b></td></tr>
-  <tr><td><img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=dracula&style=jet" alt="Jet heatmap in the dracula theme" width="100%" /></td></tr>
-</table>
-
-<br />
-
-## Add it to your README
-
-One image tag. No workflow, no cron job, no output branch — it renders on request from live GitHub data.
-
-```markdown
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=YOUR_USERNAME&theme=aurora&style=jet" alt="contribution activity" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=asamassekou10&theme=midnight&items=Security::CLI%20scanner%20for%20the%20agent%20era|Local-first::Open%20source%2C%20runs%20on%20your%20machine|Shipping::775%20stars%20and%20counting" width="100%" alt="Highlights" />
 </p>
-```
-
-Swap `theme` for any of `aurora` · `satan` · `neon` · `dracula` · `matrix` · `ocean` · `sunset` · `midnight` · `forest` · `retro` · `minimal` — and more.
-
-Drop `&style=jet` and you get the standard animated heatmap instead.
 
 <br />
 
-## How it works
+## The year, so far
 
-- **Real data.** Reads your actual contribution calendar — 53 weeks, live from the GitHub API.
-- **Real targets.** It shoots your genuinely busiest days, picked by percentile so one huge merge day can't skew the whole year.
-- **Pure SMIL.** GitHub renders README images in a sandboxed `<img>` that runs no JavaScript. Every moving part — the flight path, each tracer, each shockwave — shares one 20-second timeline and carves its own window out of it.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=midnight&style=jet&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=asamassekou10&theme=midnight&style=jet&mode=dark" width="100%" alt="2,219 contributions in the last year" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>A jet flies the length of the year and fires at the busiest days. Give it a few seconds.</sub>
+</p>
 
 <br />
+
+## Signal
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=asamassekou10&theme=midnight" width="100%" alt="785 stars across 51 repositories" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=asamassekou10&theme=midnight" width="100%" alt="Language stack" />
+</p>
+
+<br />
+
+## Work
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=asamassekou10&theme=midnight" width="100%" alt="Pinned projects" />
+</p>
+
+<br />
+
+## Profile scan
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=asamassekou10&theme=midnight" width="100%" alt="ASCII profile scan" />
+</p>
+
+<br />
+
+<hr />
 
 <p align="center">
   <sub>
-    Built with <a href="https://www.gitskins.com">GitSkins</a>.<br />
-    Jet concept inspired by the <a href="https://github.com/Sushmitadasari/Sushmitadasari">GitHub Jet heatmap</a> on Sushmitadasari's profile.
+    Every panel above is a single <code>&lt;img&gt;</code> tag — live GitHub data, rendered on request, animated with SMIL.<br />
+    No workflows, no cron jobs, no committed assets.<br />
+    <br />
+    <a href="https://www.gitskins.com"><b>gitskins.com</b></a>
   </sub>
 </p>
