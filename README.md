@@ -59,6 +59,14 @@ The contribution graph can become a different visual experience without changing
   <img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=aurora&style=erased" width="100%" alt="Animated contribution Eraser visual" />
 </p>
 
+### Space Shooter
+
+The contribution graph becomes a playable arcade scene. GitHub Actions refreshes the animation daily and publishes it to this repository's `output` branch.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game" />
+</p>
+
 <p align="center">
   <a href="https://www.gitskins.com/readme-generator"><b>Use a contribution game in your README</b></a>
 </p>
@@ -111,6 +119,7 @@ The embeds below are the exact format to paste into a GitHub profile README. Rep
 ![Jet contribution game](https://www.gitskins.com/api/section/heatmap?username=YOUR_USERNAME&theme=aurora&style=jet)
 ![Snake contribution game](https://www.gitskins.com/api/section/heatmap?username=YOUR_USERNAME&theme=aurora&style=snake)
 ![Eraser contribution visual](https://www.gitskins.com/api/section/heatmap?username=YOUR_USERNAME&theme=aurora&style=erased)
+![Space Shooter contribution game](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/output/space-shooter.gif)
 ```
 </details>
 
