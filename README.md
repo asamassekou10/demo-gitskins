@@ -51,7 +51,7 @@ const torvalds: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c%2Crust%2Cbash%2Cpython%2Ccpp&perline=8&theme=dark" alt="Tech stack" />
+<img src="https://www.gitskins.com/api/readme-reference/technology-stack?theme=neon&logos=C%2CAssembly%2CRust%2CShell%2CPython%2CMakefile%2CPerl%2CC%2B%2B" alt="Tech stack" />
 
 <br/><br/>
 
