@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 110" width="230" height="110" fill="none" role="img" aria-label="Email">
+  <defs>
+    <linearGradient id="eg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff7a6b"/>
+      <stop offset="0.5" stop-color="#ea4335"/>
+      <stop offset="1" stop-color="#c5291d"/>
+    </linearGradient>
+    <linearGradient id="eenv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e7e7e7"/>
+    </linearGradient>
+    <filter id="esh" x="-30%" y="-40%" width="160%" height="180%"><feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#000000" flood-opacity="0.45"/></filter>
+  </defs>
+  <rect x="14" y="14" width="202" height="82" rx="18" fill="url(#eg)" filter="url(#esh)"/>
+  <rect x="15.5" y="15.5" width="199" height="79" rx="16.5" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.4"/>
+  <rect x="16" y="17" width="198" height="34" rx="15" fill="#ffffff" opacity="0.18"/>
+  <rect x="14" y="74" width="202" height="22" rx="11" fill="#8f1a12" opacity="0.30"/>
+  <g transform="translate(30,38)">
+    <rect x="0" y="0" width="44" height="34" rx="5" fill="url(#eenv)" stroke="#b53326" stroke-width="1.2"/>
+    <path d="M2 3 L22 20 L42 3" fill="none" stroke="#d23b2c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="88" y="62" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="26" font-weight="800" letter-spacing="1" fill="#ffffff" stroke="#a31f15" stroke-width="0.6">Email</text>
+</svg>

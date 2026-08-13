@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 110" width="300" height="110" fill="none" role="img" aria-label="Instagram">
+  <defs>
+    <linearGradient id="ig" gradientUnits="userSpaceOnUse" x1="0" y1="55" x2="320" y2="55" spreadMethod="repeat">
+      <stop offset="0" stop-color="#f9ce34"/>
+      <stop offset="0.2" stop-color="#ee2a7b"/>
+      <stop offset="0.4" stop-color="#6228d7"/>
+      <stop offset="0.6" stop-color="#26c5f3"/>
+      <stop offset="0.8" stop-color="#ee2a7b"/>
+      <stop offset="1" stop-color="#f9ce34"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="320 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="ish" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#c01d6f" flood-opacity="0.45"/></filter>
+    <filter id="itx" x="-20%" y="-40%" width="140%" height="180%"><feDropShadow dx="0" dy="1" stdDeviation="1.4" flood-color="#5a0a32" flood-opacity="0.55"/></filter>
+  </defs>
+  <rect x="14" y="14" width="272" height="82" rx="22" fill="url(#ig)" filter="url(#ish)"/>
+  <rect x="20" y="19" width="260" height="30" rx="15" fill="#ffffff" opacity="0.22"/>
+  <rect x="20" y="62" width="260" height="30" rx="15" fill="#3a0a26" opacity="0.18"/>
+  <g filter="url(#itx)" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round">
+    <rect x="30" y="38" width="34" height="34" rx="10"/>
+    <circle cx="47" cy="55" r="8.5"/>
+    <circle cx="58" cy="44" r="2.4" fill="#ffffff" stroke="none"/>
+  </g>
+  <text x="82" y="63" filter="url(#itx)" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="26" font-weight="700" letter-spacing="1" fill="#ffffff">Instagram</text>
+</svg>

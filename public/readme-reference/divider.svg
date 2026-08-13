@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40" fill="none" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="dg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="400" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#7df9ff"/>
+      <stop offset="0.5" stop-color="#7b5cff"/>
+      <stop offset="1" stop-color="#7df9ff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="400 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="de" filterUnits="userSpaceOnUse" x="0" y="0" width="1200" height="40">
+      <feTurbulence type="fractalNoise" baseFrequency="0.008 0.05" numOctaves="2" seed="5" result="n">
+        <animate attributeName="seed" dur="2.4s" values="5;13;7;15;5" calcMode="discrete" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="6" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="dgl" filterUnits="userSpaceOnUse" x="0" y="0" width="1200" height="40">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#dgl)">
+    <line x1="40" y1="20" x2="1160" y2="20" stroke="url(#dg)" stroke-width="2" stroke-linecap="round" filter="url(#de)"/>
+  </g>
+  <g fill="#00ffa3">
+    <path d="M40 20 l10 -7 l10 7 l-10 7 z" opacity="0.9"/>
+    <path d="M1160 20 l-10 -7 l-10 7 l10 7 z" opacity="0.9"/>
+  </g>
+  <circle r="4.5" fill="#7df9ff" filter="url(#dgl)">
+    <animate attributeName="cx" values="60;1140;60" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+    <animate attributeName="cy" values="20;20;20" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0;1;1;0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

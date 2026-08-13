@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 110" width="280" height="110" fill="none" role="img" aria-label="LinkedIn">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#5b9bff" stop-opacity="0.06"/>
+    </linearGradient>
+    <filter id="lsh" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#1e6bff" flood-opacity="0.35"/>
+    </filter>
+    <clipPath id="lc"><rect x="14" y="14" width="252" height="82" rx="22"/></clipPath>
+    <style>.lsh{animation:lsw 4.5s ease-in-out infinite}@keyframes lsw{0%{transform:translateX(-170px)}55%,100%{transform:translateX(300px)}}</style>
+  </defs>
+  <rect x="14" y="14" width="252" height="82" rx="22" fill="url(#lg)" stroke="#ffffff" stroke-opacity="0.30" stroke-width="1.5" filter="url(#lsh)"/>
+  <rect x="22" y="19" width="236" height="28" rx="14" fill="#ffffff" opacity="0.10"/>
+  <g clip-path="url(#lc)"><g class="lsh"><rect x="0" y="14" width="46" height="82" fill="#ffffff" opacity="0.13" transform="skewX(-18)"/></g></g>
+  <rect x="30" y="37" width="36" height="36" rx="8" fill="#ffffff"/>
+  <text x="48" y="63" text-anchor="middle" font-family="'Trebuchet MS',sans-serif" font-size="22" font-weight="800" fill="#0A66C2">in</text>
+  <text x="84" y="63" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="26" font-weight="700" letter-spacing="1" fill="#eaf2ff">LinkedIn</text>
+</svg>

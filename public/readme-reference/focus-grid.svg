@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" fill="none" role="img" aria-label="Current focus cards">
+  <defs>
+    <filter id="e" x="-25%" y="-25%" width="150%" height="150%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="4" result="n">
+        <animate attributeName="baseFrequency" dur="8s" values="0.018;0.03;0.018" repeatCount="indefinite"/>
+        <animate attributeName="seed" dur="2.6s" values="4;12;6;14;4" calcMode="discrete" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="9" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="g" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .card { animation: fl 6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .c2 { animation-delay:.7s } .c3 { animation-delay:1.4s } .c4 { animation-delay:2.1s }
+      @keyframes fl { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-6px)} }
+      text { font-family:'Trebuchet MS','Segoe UI',Verdana,sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Card 1 : Founder (violet) -->
+  <g class="card">
+    <rect x="22" y="22" width="262" height="206" rx="20" fill="#0c0820" fill-opacity="0.6"/>
+    <g filter="url(#g)"><rect x="22" y="22" width="262" height="206" rx="20" fill="none" stroke="#7b5cff" stroke-width="2" filter="url(#e)"/></g>
+    <g transform="translate(153,74)" stroke="#7b5cff" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M-20 9 L-24 -11 L-9 -1 L0 -17 L9 -1 L24 -11 L20 9 Z" fill="#7b5cff" fill-opacity="0.14"/>
+      <line x1="-18" y1="13" x2="18" y2="13"/>
+      <g fill="#7b5cff" stroke="none"><circle cx="-24" cy="-11" r="2.2"/><circle cx="0" cy="-17" r="2.2"/><circle cx="24" cy="-11" r="2.2"/></g>
+    </g>
+    <text x="153" y="142" text-anchor="middle" font-size="21" font-weight="800" fill="#c9b8ff" letter-spacing="1">FOUNDER &amp; CEO</text>
+    <text x="153" y="172" text-anchor="middle" font-size="14.5" fill="#8a7fb8">Five AM Labs Pvt Ltd</text>
+    <text x="153" y="200" text-anchor="middle" font-size="12" fill="#5a5380" letter-spacing="2">BUILDING THE FUTURE</text>
+  </g>
+
+  <!-- Card 2 : AI/ML (cyan) -->
+  <g class="card c2">
+    <rect x="318" y="22" width="262" height="206" rx="20" fill="#06121a" fill-opacity="0.6"/>
+    <g filter="url(#g)"><rect x="318" y="22" width="262" height="206" rx="20" fill="none" stroke="#7df9ff" stroke-width="2" filter="url(#e)"/></g>
+    <g transform="translate(449,73)" stroke="#7df9ff" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+      <rect x="-13" y="-13" width="26" height="26" rx="3" fill="#7df9ff" fill-opacity="0.08"/>
+      <rect x="-5.5" y="-5.5" width="11" height="11" rx="1.5"/>
+      <path d="M-6 -13 V-18 M0 -13 V-18 M6 -13 V-18 M-6 13 V18 M0 13 V18 M6 13 V18 M-13 -6 H-18 M-13 0 H-18 M-13 6 H-18 M13 -6 H18 M13 0 H18 M13 6 H18"/>
+    </g>
+    <text x="449" y="142" text-anchor="middle" font-size="21" font-weight="800" fill="#aef3ff" letter-spacing="1">AI&#47;ML ENGINEER</text>
+    <text x="449" y="172" text-anchor="middle" font-size="14.5" fill="#6fb6c4">Scopeout &#183; Intern</text>
+    <text x="449" y="200" text-anchor="middle" font-size="12" fill="#3f8090" letter-spacing="2">ML &#183; RAG &#183; LLMs</text>
+  </g>
+
+  <!-- Card 3 : Full-stack (green) -->
+  <g class="card c3">
+    <rect x="614" y="22" width="262" height="206" rx="20" fill="#06160f" fill-opacity="0.6"/>
+    <g filter="url(#g)"><rect x="614" y="22" width="262" height="206" rx="20" fill="none" stroke="#00ffa3" stroke-width="2" filter="url(#e)"/></g>
+    <g transform="translate(745,72)" stroke="#00ffa3" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M0 -20 L20 -11 L0 -2 L-20 -11 Z" fill="#00ffa3" fill-opacity="0.16"/>
+      <path d="M-20 0 L0 9 L20 0" fill="#00ffa3" fill-opacity="0.10"/>
+      <path d="M-20 11 L0 20 L20 11" fill="#00ffa3" fill-opacity="0.05"/>
+    </g>
+    <text x="745" y="142" text-anchor="middle" font-size="21" font-weight="800" fill="#9bffd6" letter-spacing="1">FULL&#8209;STACK DEV</text>
+    <text x="745" y="172" text-anchor="middle" font-size="14.5" fill="#5fc79c">MentorLink &#183; Intern</text>
+    <text x="745" y="200" text-anchor="middle" font-size="12" fill="#3a8568" letter-spacing="2">REACT &#183; NODE &#183; MONGO</text>
+  </g>
+
+  <!-- Card 4 : Student (rose) -->
+  <g class="card c4">
+    <rect x="910" y="22" width="262" height="206" rx="20" fill="#1a0a12" fill-opacity="0.6"/>
+    <g filter="url(#g)"><rect x="910" y="22" width="262" height="206" rx="20" fill="none" stroke="#ff6b9d" stroke-width="2" filter="url(#e)"/></g>
+    <g transform="translate(1041,73)" stroke="#ff6b9d" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M0 -13 L24 -4 L0 5 L-24 -4 Z" fill="#ff6b9d" fill-opacity="0.16"/>
+      <path d="M-11 0 L-11 10 Q0 17 11 10 L11 0" fill="none"/>
+      <path d="M24 -4 L24 13" /><circle cx="24" cy="15" r="2.6" fill="#ff6b9d" stroke="none"/>
+    </g>
+    <text x="1041" y="142" text-anchor="middle" font-size="21" font-weight="800" fill="#ffb3cd" letter-spacing="1">B.TECH &#183; CSE</text>
+    <text x="1041" y="172" text-anchor="middle" font-size="14.5" fill="#c47d97">Dayananda Sagar</text>
+    <text x="1041" y="200" text-anchor="middle" font-size="12" fill="#90546a" letter-spacing="2">BENGALURU, INDIA</text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 110" width="350" height="110" fill="none" role="img" aria-label="Five AM Labs">
+  <defs>
+    <clipPath id="ac"><rect x="14" y="14" width="322" height="82" rx="22"/></clipPath>
+    <filter id="ablur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+    <filter id="ash" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#5a32c8" flood-opacity="0.4"/></filter>
+  </defs>
+  <rect x="14" y="14" width="322" height="82" rx="22" fill="#0d0a1e" filter="url(#ash)"/>
+  <g clip-path="url(#ac)">
+    <g filter="url(#ablur)">
+      <ellipse cx="70" cy="40" rx="60" ry="34" fill="#7b5cff" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;120 18;0 0" dur="9s" repeatCount="indefinite"/></ellipse>
+      <ellipse cx="200" cy="80" rx="70" ry="38" fill="#00ffa3" opacity="0.6"><animateTransform attributeName="transform" type="translate" values="0 0;-90 -22;0 0" dur="11s" repeatCount="indefinite"/></ellipse>
+      <ellipse cx="290" cy="40" rx="60" ry="34" fill="#7df9ff" opacity="0.6"><animateTransform attributeName="transform" type="translate" values="0 0;-70 26;0 0" dur="8s" repeatCount="indefinite"/></ellipse>
+      <ellipse cx="160" cy="30" rx="50" ry="26" fill="#ff5c9d" opacity="0.45"><animateTransform attributeName="transform" type="translate" values="0 0;80 30;0 0" dur="12s" repeatCount="indefinite"/></ellipse>
+    </g>
+  </g>
+  <rect x="14" y="14" width="322" height="82" rx="22" fill="none" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1.4"/>
+  <rect x="22" y="19" width="306" height="26" rx="13" fill="#ffffff" opacity="0.08"/>
+  <path d="M48 39 L66 71 L30 71 Z" fill="#ffffff"/>
+  <path d="M48 51 L57 68 L39 68 Z" fill="#0d0a1e" opacity="0.55"/>
+  <text x="84" y="63" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="26" font-weight="700" letter-spacing="1" fill="#f3eeff">Five AM Labs</text>
+</svg>

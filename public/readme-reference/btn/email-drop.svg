@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 110" width="330" height="110" fill="none" role="img" aria-label="Drop a Mail">
+  <defs>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>.gpulse{animation:gp 2.8s ease-in-out infinite}@keyframes gp{0%,100%{opacity:.6}50%{opacity:1}}</style>
+  </defs>
+  <rect x="18" y="18" width="294" height="74" rx="24" fill="#0a0a14"/>
+  <rect class="gpulse" x="18" y="18" width="294" height="74" rx="24" fill="none" stroke="#ff3da6" stroke-width="2.4" filter="url(#glow)"/>
+  <rect x="18" y="18" width="294" height="74" rx="24" fill="none" stroke="#ff7cc6" stroke-width="1.2"/>
+  <g filter="url(#glow)">
+    <g transform="translate(34,38)" stroke="#ff8ad0" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="0" y="2" width="42" height="32" rx="5"/>
+      <path d="M2 6 L21 22 L40 6"/>
+    </g>
+    <text x="92" y="63" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="26" font-weight="700" letter-spacing="1.5" fill="#ffd0ec">Drop a Mail</text>
+  </g>
+</svg>

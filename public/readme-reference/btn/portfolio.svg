@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 110" width="290" height="110" fill="none" role="img" aria-label="Portfolio">
+  <defs>
+    <linearGradient id="pg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="0.5" stop-color="#00ffa3" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#00ffa3" stop-opacity="0.10"/>
+    </linearGradient>
+    <linearGradient id="pspec" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="psh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#00d68a" flood-opacity="0.4"/></filter>
+    <clipPath id="pc"><rect x="14" y="14" width="262" height="82" rx="26"/></clipPath>
+    <style>.pgl{animation:pglow 4s ease-in-out infinite}@keyframes pglow{0%,100%{opacity:.5}50%{opacity:.9}}</style>
+  </defs>
+  <rect x="14" y="14" width="262" height="82" rx="26" fill="url(#pg)" stroke="#ffffff" stroke-opacity="0.32" stroke-width="1.5" filter="url(#psh)"/>
+  <g clip-path="url(#pc)">
+    <ellipse cx="145" cy="22" rx="120" ry="16" fill="url(#pspec)"/>
+    <ellipse class="pgl" cx="145" cy="100" rx="110" ry="20" fill="#00ffa3" opacity="0.55" filter="url(#psh)"/>
+  </g>
+  <g transform="translate(46,55)" stroke="#caffe8" stroke-width="2.4" fill="none">
+    <circle r="17"/>
+    <ellipse rx="7" ry="17"/>
+    <line x1="-17" y1="0" x2="17" y2="0"/>
+  </g>
+  <text x="82" y="63" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="26" font-weight="700" letter-spacing="1" fill="#eafff6">Portfolio</text>
+</svg>

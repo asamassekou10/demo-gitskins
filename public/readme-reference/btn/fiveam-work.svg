@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 110" width="520" height="110" fill="none" role="img" aria-label="Work With Five AM Labs">
+  <defs>
+    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4f7fa"/>
+      <stop offset="0.42" stop-color="#b9c2cd"/>
+      <stop offset="0.5" stop-color="#717c8c"/>
+      <stop offset="0.58" stop-color="#aab4c1"/>
+      <stop offset="1" stop-color="#e4eaf0"/>
+    </linearGradient>
+    <filter id="chsh" x="-30%" y="-40%" width="160%" height="180%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#000000" flood-opacity="0.4"/></filter>
+    <clipPath id="chc"><rect x="16" y="16" width="488" height="78" rx="22"/></clipPath>
+    <style>.spec{animation:spc 4.5s ease-in-out infinite}@keyframes spc{0%{transform:translateX(-220px)}55%,100%{transform:translateX(520px)}}</style>
+  </defs>
+  <rect x="16" y="16" width="488" height="78" rx="22" fill="url(#chrome)" stroke="#46505d" stroke-width="1.5" filter="url(#chsh)"/>
+  <rect x="18" y="18" width="484" height="2.5" rx="1" fill="#ffffff" opacity="0.85"/>
+  <g clip-path="url(#chc)"><g class="spec"><rect x="0" y="16" width="70" height="78" fill="#ffffff" opacity="0.5" transform="skewX(-20)"/></g></g>
+  <path d="M48 38 L64 70 L32 70 Z" fill="#2a2f38"/>
+  <text x="84" y="62" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="26" font-weight="800" letter-spacing="0.5" fill="#232831">Work With Five AM Labs</text>
+</svg>
