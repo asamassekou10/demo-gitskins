@@ -1,152 +1,166 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=torvalds&theme=aurora&label=Linus%20Torvalds" width="100%" alt="3D ASCII wordmark for Linus Torvalds" />
-</p>
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=torvalds&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=torvalds&theme=aurora&mode=dark" width="100%" alt="Animated GitHub profile hero for Linus Torvalds" />
-  </picture>
-</p>
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=torvalds&theme=neon&role=Backend%20or%20systems%20engineer&location=Portland%2C%20OR" width="100%" alt="Linus Torvalds profile banner" />
 
-<p align="center">
-  <a href="https://www.gitskins.com/readme-generator"><b>Build this in README Studio</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.gitskins.com/readme-studio-tutorial">Watch the tutorial</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.gitskins.com">gitskins.com</a>
-</p>
+<br/>
 
-<br />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Backend%20or%20systems%20engineer;Backend%20or%20systems%20engineer;Building%20with%20C%20%C2%B7%20Assembly%20%C2%B7%20Rust;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="What Linus Torvalds does" />
 
-## The visual system
+<br/>
 
-This profile is a living animation demo built from GitSkins SVG sections. Each panel is a GitHub-safe image embed, rendered from public GitHub data and animated without a workflow or committed image files.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/torvalds)
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/portrait?username=torvalds&theme=aurora" width="100%" alt="Animated ASCII portrait for Linus Torvalds" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=torvalds&theme=aurora" width="100%" alt="Animated GitHub stats for Linus Torvalds" />
-</p>
+![Profile views](https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&labelColor=0d1117) ![316169 followers](https://img.shields.io/badge/316169_followers-00FFA3?style=for-the-badge&labelColor=0d1117)
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=torvalds&theme=aurora" width="100%" alt="Animated language stack for Linus Torvalds" />
-</p>
+</div>
 
-<br />
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon" width="100%" alt="Section divider" /></div>
 
-## Contribution games
+## ⚡ whoami
 
-The contribution graph can become a different visual experience without changing the underlying profile data. These are the three game-like modes available in README Studio.
+```typescript
+const torvalds: Developer = {
+  name:      "Linus Torvalds",
+  role:      "Backend or systems engineer",
+  location:  "Portland, OR",
+  currently: "building in public",
+  stack:     ["C", "Assembly", "Rust", "Shell", "Python", "Makefile"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
+```
 
-### Jet
+> Backend or systems engineer
+>
+> **Collaborations welcome when they are meaningful 🤝**
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=aurora&style=jet" width="100%" alt="Animated contribution Jet game" />
-</p>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon" width="100%" alt="Section divider" /></div>
 
-### Snake
+## 🛠️ What Keeps Me Busy
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=aurora&style=snake" width="100%" alt="Animated contribution Snake game" />
-</p>
+<div align="center">
 
-### Eraser
+<img src="https://www.gitskins.com/api/readme-reference/focus?username=torvalds&theme=neon&role=Backend%20or%20systems%20engineer&location=Portland%2C%20OR&focus=Backend%20or%20systems%20engineer%7C9%20public%20repositories%7C254362%20stars" width="100%" alt="Current focus and profile highlights" />
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=aurora&style=erased" width="100%" alt="Animated contribution Eraser visual" />
-</p>
+</div>
 
-### Space Shooter
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon" width="100%" alt="Section divider" /></div>
 
-The contribution graph becomes a playable arcade scene. GitHub Actions refreshes the animation daily and publishes it to this repository's `output` branch.
+## ⚔️ Tech Arsenal
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.gitskins.com/readme-generator"><b>Use a contribution game in your README</b></a>
-</p>
+<img src="https://skillicons.dev/icons?i=c%2Crust%2Cbash%2Cpython%2Ccpp&perline=8&theme=dark" alt="Tech stack" />
 
-<br />
+<br/><br/>
 
-## Chess replay
+**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
 
-Chess is a decorative replay that runs automatically inside the profile. It is designed to be watched, not played, so it stays lightweight and copy-ready inside a README.
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&labelColor=0d1117) ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&labelColor=0d1117) ![Rust](https://img.shields.io/badge/Rust-dea584?style=for-the-badge&labelColor=0d1117) ![Shell](https://img.shields.io/badge/Shell-89e051?style=for-the-badge&labelColor=0d1117) ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&labelColor=0d1117) ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&labelColor=0d1117) ![Perl](https://img.shields.io/badge/Perl-0298c3?style=for-the-badge&labelColor=0d1117) ![C++](https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&labelColor=0d1117)
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/chess?username=torvalds&theme=aurora" width="100%" alt="Animated automatic chess replay" />
-</p>
+</div>
 
-<br />
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon" width="100%" alt="Section divider" /></div>
 
-## The rest of the profile
+## 🌌 Featured Projects
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=torvalds&theme=aurora&items=Kernel::Building%20the%20foundation|Open%20source::Collaborative%20software|Systems::Performance%20and%20reliability" width="100%" alt="Animated profile highlights" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=torvalds&theme=aurora" width="100%" alt="Animated pinned projects section" />
-</p>
+**linux**
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/system-scan?username=torvalds&theme=aurora" width="100%" alt="Animated ASCII profile scan" />
-</p>
+Linux kernel source tree
 
-<br />
+`C` · `242668 stars`
 
-## Copy-ready snippets
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/torvalds/linux)
 
-The embeds below are the exact format to paste into a GitHub profile README. Replace `torvalds` with your GitHub username and choose a theme such as `aurora`, `studio`, `cyber`, or `github-dark`.
+</td>
+<td width="50%" valign="top">
+
+**GuitarPedal**
+
+Linus learns analog circuits
+
+`C` · `2237 stars`
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/torvalds/GuitarPedal)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**uemacs**
+
+Random version of microemacs with my private modificatons
+
+`C` · `2099 stars`
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/torvalds/uemacs)
+
+</td>
+<td width="50%" valign="top">
+
+**AudioNoise**
+
+Random digital audio effects
+
+`C` · `4456 stars`
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/torvalds/AudioNoise)
+
+</td>
+</tr>
+</table>
 
 <details>
-  <summary><b>3D wordmark and portrait</b></summary>
+<summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
 
-```md
-![3D wordmark](https://www.gitskins.com/api/section/wordmark?username=YOUR_USERNAME&theme=aurora)
-![ASCII portrait](https://www.gitskins.com/api/section/portrait?username=YOUR_USERNAME&theme=aurora)
-```
+<br/>
+
+- **HunspellColorize** — Wrapper around 'less' to colorize spelling mistakes using Hunspell · [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/torvalds/HunspellColorize)
+
 </details>
 
-<details>
-  <summary><b>Contribution games</b></summary>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon" width="100%" alt="Section divider" /></div>
 
-```md
-![Jet contribution game](https://www.gitskins.com/api/section/heatmap?username=YOUR_USERNAME&theme=aurora&style=jet)
-![Snake contribution game](https://www.gitskins.com/api/section/heatmap?username=YOUR_USERNAME&theme=aurora&style=snake)
-![Eraser contribution visual](https://www.gitskins.com/api/section/heatmap?username=YOUR_USERNAME&theme=aurora&style=erased)
-![Space Shooter contribution game](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/output/space-shooter.gif)
-```
-</details>
+## 📊 GitHub Stats
 
-<details>
-  <summary><b>Automatic chess replay</b></summary>
+<div align="center">
 
-```md
-![Automatic chess replay](https://www.gitskins.com/api/section/chess?username=YOUR_USERNAME&theme=aurora)
-```
-</details>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&hide_border=true&title_color=7df9ff&icon_color=00ffa3&text_color=c9d4e0&bg_color=0d1117" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&hide_border=true&langs_count=8&title_color=7df9ff&text_color=c9d4e0&bg_color=0d1117" alt="Top languages" />
 
-<details>
-  <summary><b>Core profile sections</b></summary>
+<br/>
 
-```md
-![Profile hero](https://www.gitskins.com/api/section/hero?username=YOUR_USERNAME&theme=aurora)
-![GitHub stats](https://www.gitskins.com/api/section/stats?username=YOUR_USERNAME&theme=aurora)
-![Language stack](https://www.gitskins.com/api/section/stack?username=YOUR_USERNAME&theme=aurora)
-![Pinned projects](https://www.gitskins.com/api/section/projects?username=YOUR_USERNAME&theme=aurora)
-```
-</details>
+<img src="https://www.gitskins.com/api/section/heatmap?username=torvalds&theme=neon&style=aura" width="100%" alt="Contribution activity" />
 
-<br />
+</div>
 
-<p align="center">
-  <sub>
-    GitHub data in these visuals is fetched on request. The SVGs include reduced-motion behavior and light or dark variants where supported.<br />
-    <a href="https://www.gitskins.com/readme-generator"><b>Generate your own animated profile README with GitSkins</b></a>
-  </sub>
-</p>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon" width="100%" alt="Section divider" /></div>
+
+## 🏆 Beyond the Code
+
+* 🧠 **Profile signal:** 3437 contributions in the last year
+* 🚀 **Builder energy:** 9 public repositories
+* ⭐ **Community signal:** 254362 stars across featured work
+* 🗣️ **Open to:** interesting collaborations and useful products
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=torvalds&theme=neon" width="100%" alt="Section divider" /></div>
+
+<div align="center">
+
+## 🤝 Let's Build Something Meaningful
+
+I build useful software and enjoy turning ambitious ideas into working products.
+
+[![Start a conversation](https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&labelColor=0d1117)](https://github.com/torvalds)
+
+<br/><br/>
+
+***⭐ From [Linus Torvalds](https://github.com/torvalds) · built with code, AI & a little chaos 😈***
+
+</div>
